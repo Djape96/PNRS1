@@ -1,0 +1,84 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Admin\\Desktop\\PNRS1\\PNRS-Z2\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admin\\Desktop\\PNRS1\\PNRS-Z2\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "90,149",
+                        "endColumns": "57,55",
+                        "endOffsets": "143,200"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Admin\\Desktop\\PNRS1\\PNRS-Z2\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1,3,4,5,6,2",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "17,114,159,204,249,67",
+                        "endColumns": "48,43,43,43,43,45",
+                        "endOffsets": "61,153,198,243,288,108"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "169,218,262,306,350,394",
+                        "endColumns": "48,43,43,43,43,45",
+                        "endOffsets": "213,257,301,345,389,435"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Admin\\Desktop\\PNRS1\\PNRS-Z2\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "194"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "440",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "575"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Admin\\Desktop\\PNRS1\\PNRS-Z2\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13_values-w820dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admin\\Desktop\\PNRS1\\PNRS-Z2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "295",
+                        "endColumns": "57",
+                        "endOffsets": "348"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}
